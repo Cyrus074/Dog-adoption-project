@@ -13,4 +13,15 @@ https://www.kaggle.com/datasets/sergionefedov/dog-adoption-success-does-the-matc
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook.
+- Jupyter Notebook
+
+## Skills
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Python Programming
+
+## Author
+Cyrus Leach
