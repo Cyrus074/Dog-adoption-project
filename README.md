@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/sergionefedov/dog-adoption-success-does-the-matc
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+- MS. Powerpoint
 
 ## Skills
 - Data Analysis
@@ -22,6 +23,6 @@ https://www.kaggle.com/datasets/sergionefedov/dog-adoption-success-does-the-matc
 - Data Visualization
 - Statistical Analysis
 - Python Programming
-
+- Presentation/ Communication
 ## Author
 Cyrus Leach
